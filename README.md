@@ -1,7 +1,7 @@
 
 ### Hi Developers 👋
-[![Linkedin Badge](https://img.shields.io/badge/-Aakash-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aakash--01629954/)](https://www.linkedin.com/in/nitesh-kumar-4760a8266/)
-[![Website Badge](https://img.shields.io/badge/StackOverflow-Aakash-yellow)](https://stackoverflow.com/users/21199121/nitesh-kumar)
+[![Linkedin Badge](https://img.shields.io/badge/-Nitesh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aakash--01629954/)](https://www.linkedin.com/in/nitesh-kumar-4760a8266/)
+[![Website Badge](https://img.shields.io/badge/StackOverflow-Nitesh-yellow)](https://stackoverflow.com/users/21199121/nitesh-kumar)
 
 My Name is Nitesh Kumar Mandal...
 And I'm a Full Stack  Web developer...
