@@ -3,7 +3,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Nitesh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aakash--01629954/)](https://www.linkedin.com/in/nitesh-kumar-4760a8266/)
 [![Website Badge](https://img.shields.io/badge/StackOverflow-Nitesh-yellow)](https://stackoverflow.com/users/21199121/nitesh-kumar)
 [![Website Badge](https://img.shields.io/badge/profilewebsite-Nitesh-orange)](https://887381nitesh.github.io/Niteshprofile/)
-[![Website Badge](https://img.shields.io/badge/flipkartClone-Nitesh-red)](https://statuesque-jelly-397619.netlify.app/)
+[![Website Badge](https://img.shields.io/badge/flipkartClone-Nitesh-red)](https://64c8e57d7dd4296818eacdcc--magnificent-kelpie-cca3fd.netlify.app/)
 [![Website Badge](https://img.shields.io/badge/zomatoClone-Nitesh-yellow)](https://64c8d8ee89bb8b60d1141b92--statuesque-jelly-397619.netlify.app/)
 [![Website Badge](https://img.shields.io/badge/flipkartClone-Nitesh-blue)](https://887381nitesh.github.io/niteshdarkflip/)
 
