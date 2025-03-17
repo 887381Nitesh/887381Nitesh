@@ -8,7 +8,7 @@
 [![Website Badge](https://img.shields.io/badge/flipkartClone-Nitesh-blue)](https://887381nitesh.github.io/niteshdarkflip/)
 
 
-I'm a Full Stack Web Developer, currently pursuing a (MERN) Internship at Acciojob Noida!
+I'm a Full Stack Web Developer, currently pursuing a (MERN) Internship at #Acciojob_Noida!
 
 💻 Tech Stack:
 ✔️ Frontend: HTML, CSS, JavaScript,React,Bootstrap,Tailwind.
