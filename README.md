@@ -1,5 +1,5 @@
 
-### Hi Developers 👋
+### Hi Developers, I'm Nitesh Kumar 👋 👋
 [![Linkedin Badge](https://img.shields.io/badge/-Nitesh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aakash--01629954/)](https://www.linkedin.com/in/nitesh-kumar-4760a8266/)
 [![Website Badge](https://img.shields.io/badge/StackOverflow-Nitesh-yellow)](https://stackoverflow.com/users/21199121/nitesh-kumar)
 [![Website Badge](https://img.shields.io/badge/profilewebsite-Nitesh-orange)](https://887381nitesh.github.io/niteshliveprofile/)
