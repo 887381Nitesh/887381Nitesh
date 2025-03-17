@@ -8,13 +8,20 @@
 [![Website Badge](https://img.shields.io/badge/flipkartClone-Nitesh-blue)](https://887381nitesh.github.io/niteshdarkflip/)
 
 
-My Name is Nitesh Kumar Mandal...
-And I'm a Full Stack  Web developer...
-I am pursuing Internship full stack web development from edurika!..
-I have good knowledge of HTML,CSS,JAVA SCRIPT,PHP and MYSQL...
-My strength are i am self motivated hard working and disciplined person...
-My short term goal is to get a job in reputed company...
-My long terms goal is to achieve a good position where build my career as well as organization too...
+I'm a Full Stack Web Developer, currently pursuing a (MERN) Internship at Acciojob Noida!
+
+💻 Tech Stack:
+✔️ Frontend: HTML, CSS, JavaScript,React,Bootstrap,Tailwind.
+✔️ Backend: Node.js, Express.js,C#,php.
+✔️ Database: MongoDb, Mysql.
+✔️ Tools: PostMan, Vscode,
+
+🌟 About Me:
+I am a self-motivated, hardworking, and disciplined individual with a passion for coding and problem-solving.
+
+🎯 Goals:
+🔹 Short-term: Secure a job in a reputed company.
+🔹 Long-term: Grow into a leadership role where I can contribute to both my career and the organization’s success.
 
 
 <div>
